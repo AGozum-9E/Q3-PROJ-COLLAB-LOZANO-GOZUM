@@ -1,0 +1,41 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: gray;
+}
+
+h3 {
+    color: #000000;}
+
+h4 {
+    background-color: #000000;
+    border-radius: 5px;
+    padding: 10px;
+    color: whitesmoke;
+}
+    
+th {
+    text-align: center;
+}
+
+dd {
+    text-align: center;
+}
+
+.container {
+    background-color: whitesmoke;
+    padding: 17px;
+    border-radius: 10px;
+}
+#footer {
+    background-color: black;
+    padding: 10px;
+
+}
+
+#footer p{
+    color: whitesmoke;
+    margin: 0;
+    text-align: center;
+  }
+
+
